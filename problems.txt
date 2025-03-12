@@ -1,0 +1,21 @@
+1. charger type that is the most used.
+2. what city or region prefer a particular charger.
+3. what company has the most effective charging station.
+4. what company offers the highest charging capacity(kW).
+5. trend of charging type of the years
+6. what charging types are people switching to since the years.
+7. most rated and reviewed charging type.
+8. what company offers the most parking spots for its customers and also the least.
+7. the trend of switching to renewable company over the years.
+8. company adopting renewable energy.
+9. most used charging by ev based on station operators, charging type, connector type.
+10. proximity of charging spot in province or countries.
+11. proximity of charging spot to city.
+12. most used charging type | station operator by province/coutry 
+13. rate of nmainitenance of charging station/types over the years.
+
+
+questions about columns 
+what is connector type
+what is charger type
+
