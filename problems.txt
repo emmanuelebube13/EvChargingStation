@@ -19,3 +19,24 @@ questions about columns
 what is connector type
 what is charger type
 
+
+Refined & Improved Questions
+Usage & Preference Analysis
+Which charger type is used the most across all locations?
+How does the preference for charger type vary across different cities or regions?
+Which companies operate the most widely used charging stations?
+Which company provides the highest charging capacity (kW) on average?
+Trends & Market Shifts
+How has the adoption of different charging types changed over the years?
+Which charging types are gaining or losing popularity over time?
+How have user ratings and reviews evolved for different charging types?
+How has the number of parking spots at charging stations changed over time? Which companies provide the most and least parking spots?
+Sustainability & Renewable Energy
+What is the trend in the adoption of renewable energy-powered charging stations over the years?
+Which companies are integrating renewable energy into their charging networks the most?
+Charging Behavior & Accessibility
+Which charging types are most frequently used based on station operators, charging type, and connector type?
+What is the average distance between charging stations within each province or country?
+How accessible are charging stations in urban areas compared to rural areas?
+Which charging type and station operators are the most used in different provinces/countries?
+How frequently do different charging stations and charger types require maintenance over the years?
