@@ -3,4 +3,8 @@ the ac2, with 1764. which makes up 35 percent of total charger types.
 
 2.How does the preference for charger type vary across different cities or regions?
 
-3. Which companies operate the most widely used charging stations?
+3. Which companies operate the most widely used charging stations? Tesla with 1029 total station and over 20.58% in total station market
+
+4. Which company provides the highest charging capacity (kW) on average? ChargePoint with an avergae of 150.29KW
+
+5. 

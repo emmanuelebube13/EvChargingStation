@@ -26,11 +26,13 @@ Which charger type is used the most across all locations?
 How does the preference for charger type vary across different cities or regions?
 Which companies operate the most widely used charging stations?
 Which company provides the highest charging capacity (kW) on average?
+
 Trends & Market Shifts
 How has the adoption of different charging types changed over the years?
 Which charging types are gaining or losing popularity over time?
 How have user ratings and reviews evolved for different charging types?
 How has the number of parking spots at charging stations changed over time? Which companies provide the most and least parking spots?
+
 Sustainability & Renewable Energy
 What is the trend in the adoption of renewable energy-powered charging stations over the years?
 Which companies are integrating renewable energy into their charging networks the most?
